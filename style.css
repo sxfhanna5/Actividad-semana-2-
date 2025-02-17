@@ -3,33 +3,45 @@ body {
     background: white;
     margin: 0px;
 }
+
 header {
     text-align: center;
 }
+
 header img {
     width: 100%;
 }
-nav{
+
+nav {
     background: #2F048C;
     color: white;
     padding: 10px 0 10px 0;
     margin-top: 0px;
 }
-nav ul li{
+
+nav ul li {
     display: inline;
     margin: 0 25px;
-    }
-nav ul li a{
+}
+
+nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
-a{
+
+a {
     padding: 10px;
 }
-a:hover{
+
+a:hover {
 
     background-color: #2d9ec0;
     padding: 10px;
     border-radius: 10px;
+}
+section {
+ padding top: 50px;   
+ margin-bottom: 30px;
+ text-aling: center
 }
