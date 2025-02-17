@@ -24,3 +24,12 @@ nav ul li a{
     text-decoration: none;
     font-weight: bold;
 }
+a{
+    padding: 10px;
+}
+a:hover{
+
+    background-color: #2d9ec0;
+    padding: 10px;
+    border-radius: 10px;
+}
